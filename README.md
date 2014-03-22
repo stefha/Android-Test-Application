@@ -16,3 +16,5 @@ class Awesome extends LessAwesome {
 ```
 
 ![http://img.izismile.com/img/img6/20130517/640/this_funny_meme_wins_every_argument_640_high_09.jpg](http://img.izismile.com/img/img6/20130517/640/this_funny_meme_wins_every_argument_640_high_09.jpg)
+
+Sau lustig das Bild :)
