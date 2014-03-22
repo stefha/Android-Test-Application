@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App</string>
+    <string name="action_settings">Language</string>
+    <string name="action_settings2">Settings</string>
+    <string name="action_settings3">Exit</string>
+
+</resources>

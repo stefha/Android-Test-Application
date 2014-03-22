@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="197dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="There is a shitload of text here, but nothing really usefully or really interesting, so you might as well go back to the first page !!!!!!!"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.19" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Back to where you came from!"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.61"
+        android:textSize="25dp" />
+</LinearLayout>
